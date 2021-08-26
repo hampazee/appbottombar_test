@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuSetting"
+        android:title="@string/setting_str"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/menuSalary"
+        android:title="@string/salary_str"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuChange"
+        android:title="@string/change_str"
+        android:icon="@drawable/ic_change_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuMerge"
+        android:title="@string/merge_str"
+        android:icon="@drawable/ic_merge_24"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuShare"
+        android:title="@string/share_str"
+        android:icon="@drawable/ic_baseline_share_24"
+        app:showAsAction="always"/>
+
+</menu>

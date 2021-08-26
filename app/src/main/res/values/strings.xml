@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appbartest01</string>
+    <string name="setting_str">Setting</string>
+    <string name="merge_str">Merge</string>
+    <string name="salary_str">Salary</string>
+    <string name="share_str">Share</string>
+    <string name="change_str">change</string>
+</resources>
